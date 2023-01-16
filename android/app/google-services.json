@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763555864410",
+    "project_id": "crossword-8e698",
+    "storage_bucket": "crossword-8e698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763555864410:android:6cb77f108f582e5a899d63",
+        "android_client_info": {
+          "package_name": "com.example.crossword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763555864410-1brnipltjmua23d6r0vfjr7ttoc5jh3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu2BbqA4sCys_2C10cGAfrSsnqr0OFgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763555864410-1brnipltjmua23d6r0vfjr7ttoc5jh3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
